@@ -1,0 +1,11 @@
+print("Arrow.py")
+print("   *   ")
+print("  *** ")
+print(" *****")
+print("*******")
+print("   *")
+print("   *")
+print("   *")
+print("   *")
+
+a=input("Press any key")
